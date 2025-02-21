@@ -30,9 +30,10 @@ Edit
 Clone the repository
 
 git clone https://github.com/AnjanaRanasinghe/Simple-Calculator-Java-Swing.git
+
 cd Simple-Calculator-Java-Swing
 
-Open in NetBeans or any Java-supported IDE
+Open in NetBeans or any Java-supported IDE.
 
 ## Run the application ##
 
@@ -41,7 +42,9 @@ If using NetBeans, open cal1.java and run the project.
 ## Usage ## 
 
 Enter two numbers in the input fields.
+
 Click the "ADD" button.
+
 The result will be displayed below.
 
 ## Future Improvements ##
