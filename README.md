@@ -57,3 +57,6 @@ The result will be displayed below.
 
 ## License ##
 This project is open-source and available under the MIT License.
+
+## Contact
+For any inquiries, please contact [anjana.20231160@iit.ac.lk] or open an issue on GitHub.
