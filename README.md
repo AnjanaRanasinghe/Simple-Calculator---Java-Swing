@@ -4,8 +4,11 @@ This is a basic calculator application built using Java Swing. The application a
 
 ## Features 
 ✅ Simple user interface with a clean layout
+
 ✅ Addition operation for two numbers
+
 ✅ Displays the result dynamically
+
 ✅ Built using Java Swing GUI components
 
 ## Technologies Used 
@@ -26,8 +29,8 @@ Edit
 ## Installation & Setup ##
 Clone the repository
 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/AnjanaRanasinghe/Simple-Calculator-Java-Swing.git
+cd Simple-Calculator-Java-Swing
 
 Open in NetBeans or any Java-supported IDE
 
@@ -43,8 +46,11 @@ The result will be displayed below.
 
 ## Future Improvements ##
 🔹 Add more operations (subtraction, multiplication, division)
+
 🔹 Improve UI/UX with better styling
+
 🔹 Implement keyboard input support
+
 
 ## License ##
 This project is open-source and available under the MIT License.
