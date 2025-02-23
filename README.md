@@ -49,8 +49,11 @@ The result will be displayed below.
 
 ## Future Improvements ##
 🔹 Add more operations (subtraction, multiplication, division)
+
 🔹 Improve UI/UX with better styling
+
 🔹 Implement keyboard input support
+
 
 
 ## License ##
