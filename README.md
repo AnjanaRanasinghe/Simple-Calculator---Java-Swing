@@ -30,9 +30,7 @@ Edit
 Clone the repository
 
 git clone https://github.com/AnjanaRanasinghe/Simple-Calculator-Java-Swing.git
-
 cd Simple-Calculator-Java-Swing
-
 Open in NetBeans or any Java-supported IDE.
 
 ## Run the application ##
@@ -49,9 +47,7 @@ The result will be displayed below.
 
 ## Future Improvements ##
 🔹 Add more operations (subtraction, multiplication, division)
-
 🔹 Improve UI/UX with better styling
-
 🔹 Implement keyboard input support
 
 
